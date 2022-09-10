@@ -1,0 +1,21 @@
+body {
+    background-color: blanchedalmond;
+    color: darkslategrey;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height:auto
+}
+#parent {
+    font-family:'Courier New', Courier, sans-serif;
+
+}
+
+#list {
+    text-align: center;
+    list-style: none;
+
+}
+
